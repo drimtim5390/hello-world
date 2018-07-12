@@ -1,2 +1,3 @@
 # hello-world
-I'm using it
+Hi Humans!
+I write amazing Laravel Apps
